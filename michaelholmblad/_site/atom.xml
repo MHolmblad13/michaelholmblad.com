@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Michael a.k.a. StarChar</title>
+ <link href="http://localhost:4000//atom.xml" rel="self"/>
+ <link href="http://localhost:4000//"/>
+ <updated>2020-02-07T15:31:32-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Michael Holmblad</name>
+   <email>mholmblad13@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Michael - StarChar</title>
+   <link href="http://localhost:4000/2020/02/03/michael-starchar.html"/>
+   <updated>2020-02-03T14:38:34-05:00</updated>
+   <id>http://localhost:4000//2020/02/03/michael-starchar</id>
+   <content type="html">&lt;p&gt;Hi and welcome to my personal website. My name is Michael Holmblad, and I’m a student in the Villanova University Master’s program for Computer Science.&lt;/p&gt;
+
+&lt;p&gt;This site is about me.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
