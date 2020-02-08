@@ -19,6 +19,7 @@ gems:
 # Custom variables
 version: "1.0.0"
 
+paginate_path: /posts/page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
