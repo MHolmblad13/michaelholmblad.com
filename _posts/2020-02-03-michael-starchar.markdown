@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Michael - StarChar"
 date:   2020-02-03 14:38:34 -0500
 ---
