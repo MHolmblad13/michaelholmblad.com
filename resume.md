@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: Resume
+title: Resume
 ---
 
 - [Skills](#skills)
