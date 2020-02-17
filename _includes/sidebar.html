@@ -23,6 +23,8 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+
+    {% include link.html %}
 	  
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/posts/index.html">Posts</a>
 
@@ -30,6 +32,11 @@
   </nav>
 
   <div class="sidebar-item">
+    <span>Contact Info:</span>
+	  <a href="https://github.com/MHolmblad13" target="_blank"><span class="icon-github"></span> Github</a>
+    <a href="https://www.linkedin.com/in/michael-holmblad-517960135" target="_blank"	><span class="icon-linkedin"></span> Linkedin </a>
+    <a href="https://twitter.com/StarChar21" target="_blank"><span class="icon-twitter"></span> StarChar21</a>
+	  <span class="icon-envelope-o"></span> MHolmblad13[at]gmail.com
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
