@@ -27,9 +27,9 @@ title: Resume
 
 
 # Skills
-**Programming Languages:** Java, Python, C#, Lua
-**Math and Statistical Tools:** R, Jmp, Excel, LaTeX
-**Familiar:** Unreal Engine 4, Unity, C, C++, MySQL, Assembly, Arduino  
+**Programming Languages:** Java, Python, C#, Lua <br/>
+**Math and Statistical Tools:** R, Jmp, Excel, LaTeX <br/>
+**Familiar:** Unreal Engine 4, Unity, C, C++, MySQL, Assembly, Arduino <br/>  
 
 # Education
 ## Villanova University
