@@ -28,11 +28,10 @@ I'm a programmer/analyst that is a Master's student at Villanova University. If 
 
 # Podcasts
 * The Dive
-* JLXP (Josh Leesman Experience)
+* Facecheck
 * Hotline League
-* The 9's Summoning Insight
 
 
 # Current Projects
-* League of Legends World's Predictor
-* Unnamed jRPG made from scratch in Java
+* League of Legends Damage Calculator Website (Potentially new main website)
+* Creating a RPG in Unity

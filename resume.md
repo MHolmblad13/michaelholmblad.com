@@ -5,37 +5,40 @@ title: Resume
 
 - [Skills](#skills)
 - [Education](#education)
-  * [Villanova University](#villanova-university)
-  * [Winona State University (WSU)](#winona-state-university--wsu-)
+  - [Villanova University](#villanova-university)
+  - [Winona State University (WSU)](#winona-state-university-wsu)
 - [Work Experience](#work-experience)
-  * [Villanova Teaching Assistant](#villanova-teaching-assistant)
-  * [Watlow](#watlow)
-    + [Coop Intern](#coop-intern)
-    + [Intern](#intern)
-  * [Winona State University](#winona-state-university)
-    + [Software Testing/Development Lab](#software-testing-development-lab)
-    + [Peer Tutor Winona State University](#peer-tutor-winona-state-university)
-    + [Lab Technician for Computer Science Department WSU](#lab-technician-for-computer-science-department-wsu)
+  - [Villanova Graduate Assistant](#villanova-graduate-assistant)
+  - [Nationwide Insurance](#nationwide-insurance)
+  - [Watlow](#watlow)
+    - [Coop Intern](#coop-intern)
+    - [Intern](#intern)
+  - [Winona State University](#winona-state-university)
+    - [Software Testing/Development Lab](#software-testingdevelopment-lab)
+    - [Peer Tutor Winona State University](#peer-tutor-winona-state-university)
+    - [Lab Technician for Computer Science Department WSU](#lab-technician-for-computer-science-department-wsu)
 - [Professional Presentations](#professional-presentations)
-  * [Chaotic Random Number Generation](#chaotic-random-number-generation)
-  * [Elliptic Curves in the Cryptographic World](#elliptic-curves-in-the-cryptographic-world)
+  - [Chaotic Random Number Generation](#chaotic-random-number-generation)
+  - [Elliptic Curves in the Cryptographic World](#elliptic-curves-in-the-cryptographic-world)
 - [Awards](#awards)
 - [Other Activities](#other-activities)
-  * [Super Smash Bros Club WSU](#super-smash-bros-club-wsu)
-  * [Math/Stat/Data Science Club WSU](#math-stat-data-science-club-wsu)
-  * [Computer Science Club WSU](#computer-science-club-wsu)
+  - [Villanova League of Legends Club](#villanova-league-of-legends-club)
+  - [Super Smash Bros Club WSU](#super-smash-bros-club-wsu)
+  - [Math/Stat/Data Science Club WSU](#mathstatdata-science-club-wsu)
+  - [Computer Science Club WSU](#computer-science-club-wsu)
 
 
 # Skills
-**Programming Languages:** Java, Python, C#, Lua <br/>
-**Math and Statistical Tools:** R, Jmp, Excel, LaTeX <br/>
-**Familiar:** Unreal Engine 4, Unity, C, C++, MySQL, Assembly, Arduino <br/>  
+**Programming Languages:** Java, Python, C#, Lua, LaTeX <br/>
+**Math and Statistical Tools:** R, Jmp, Excel <br/>
+**Source Control Management Tools:** TFS, Gitkraken, Bitbucket, Jira, Confluence <br/> 
+**Familiar:** Unreal Engine 4, Unity, C, C++, MySQL, Assembly, Arduino, Sqldeveloper <br/>  
 
 # Education
 ## Villanova University
 Villanova, PA <br/>
 Master's in Computer Science <br/>
-GPA: 3.67/4.0 <br/>
+GPA: 3.78/4.0 <br/>
 Graduate Assistant for the Computer Science Department <br/>
 Expected to graduate in May 2021 <br/>
 
@@ -48,11 +51,20 @@ Graduated in December 2018 <br/>
 Graduated with honors in the Computer Science Department <br/>
 
 # Work Experience
-## Villanova Teaching Assistant
+## Villanova Graduate Assistant
 August 2019 - Present <br/>
-Every semester at Villanova, I get the honor to assist multiple professors in teaching their courses. I grade papers, hold office hours for students, and assist in background work with the course.
+Every semester at Villanova, I get the honor to assist multiple professors in teaching their courses. I grade papers, hold office hours for students, host lectures when needed, and assist in background work with the course.
 
 
+Courses I've tutored:
+* Discrete Structures (3 times)
+* Programming For All (2 times)
+* Design and Analysis of Algorithms
+* Computer Ethics
+* Special Topics: Intro to Data Science
+## Nationwide Insurance
+June 2020 <br/>
+Nationwide was going to do a summer long internship program. Unfortunately, due to Covid-19 they had to limit it to a month long purely remote internship. During the internship, we learned how to integrate Docker and Kubernetes with in-house apps that the software development team based in Harleysville Pennsylvannia had.  
 ## Watlow
 ### Coop Intern
 January 2019 - August 2019 <br/>
@@ -94,6 +106,11 @@ Places where it was presented:
 
 
 # Other Activities
+## Villanova League of Legends Club
+Coach/Analyst/Member <br/>
+Fall 2020 - Spring 2021 <br/>
+During the competitive season I served as the coach/analyst for the Villanova League of Legends team. I scouted the opposing team, prepared a draft strategey, lead the draft, and talked with the players about how the comms and the games went. I also participated in club events.
+
 ## Super Smash Bros Club WSU
 Founder <br/>
 Spring 2015 - Dec. 2018 <br/>
