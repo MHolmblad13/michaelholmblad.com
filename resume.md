@@ -48,7 +48,7 @@ Bachelor's of Science in Computer Science and Mathematics <br/>
 Minors in Statistics and Philosophy <br/>
 GPA: 3.29/4.0 <br/>
 Graduated in December 2018 <br/>
-Graduated with honors in the Computer Science Department <br/>
+Graduated with honors in the Computer Science Department 
 
 # Work Experience
 ## Villanova Graduate Assistant
@@ -62,6 +62,8 @@ Courses I've tutored:
 * Design and Analysis of Algorithms
 * Computer Ethics
 * Special Topics: Intro to Data Science
+
+
 ## Nationwide Insurance
 June 2020 <br/>
 Nationwide was going to do a summer long internship program. Unfortunately, due to Covid-19 they had to limit it to a month long purely remote internship. During the internship, we learned how to integrate Docker and Kubernetes with in-house apps that the software development team based in Harleysville Pennsylvannia had.  
